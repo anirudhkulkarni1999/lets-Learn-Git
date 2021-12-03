@@ -6,4 +6,5 @@ def sum(a,b):
 
 z=sum(a,b)
 
-print(z)
+print('the sum is ', z)
+print('Hey there')
