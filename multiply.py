@@ -7,3 +7,5 @@ def mul(a,b):
 z=mul(a,b)
 
 print('the multiplication is ', z)
+print("In anirudh/Multiply")
+print("In anirudh/Multiply 2")
